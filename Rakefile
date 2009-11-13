@@ -4,7 +4,7 @@ require 'echoe'
 
 Echoe.new('zombify', '0.1.0') do |p|
   p.description    = "Zombifies strings in your application."
-  p.url            = "http://github.com/romaind/zombify"
+  p.url            = "http://github.com/jbfeldis/zombify"
   p.author         = "Studio Melipone"
   p.email          = "contact@studiomelipone.eu"
   p.ignore_pattern = ["tmp/*", "script/*"]
